@@ -1,0 +1,36 @@
+greedy
+shortest paths
+2-sat
+meet-in-the-middle
+*special problem
+number theory
+constructive algorithms
+chinese remainder theorem
+combinatorics
+ternary search
+schedules
+dsu
+dfs and similar
+graph matchings
+string suffix structures
+expression parsing
+math
+probabilities
+fft
+divide and conquer
+two pointers
+trees
+data structures
+flows
+sortings
+matrices
+dp
+hashing
+bitmasks
+geometry
+strings
+graphs
+brute force
+games
+binary search
+implementation

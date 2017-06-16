@@ -1,0 +1,36 @@
+greedy                     610
+shortest paths             78
+2-sat                      9
+meet-in-the-middle         14
+*special problem           154
+number theory              168
+constructive algorithms    364
+chinese remainder theorem  6
+combinatorics              161
+ternary search             18
+schedules                  5
+dsu                        115
+dfs and similar            313
+graph matchings            24
+string suffix structures   38
+expression parsing         30
+math                       612
+probabilities              82
+fft                        12
+divide and conquer         67
+two pointers               128
+trees                      201
+data structures            476
+flows                      46
+sortings                   297
+matrices                   46
+dp                         644
+hashing                    73
+bitmasks                   111
+geometry                   163
+strings                    192
+graphs                     246
+brute force                486
+games                      58
+binary search              288
+implementation             1053
