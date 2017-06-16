@@ -58,6 +58,7 @@ programming website) to obtain useful information.
 			It also finds tutorial blogs from the heading and saves them in a seperate file.
 			There are two other files having the details of every url being searched and the 
 			other having the links of all good blogs.      
-
+	
+	I have also added the probems_in_tags.txt and tags_list.txt files after executing the particular function.
 	I'm also going to add other interesting features to this project ... So stay tuned !!!
 	
